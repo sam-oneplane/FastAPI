@@ -12,9 +12,9 @@ A short FastApi App
 `curl -X POST -H "Content-Type: application /json" -d '{"key"|"value"}' 'http://127.0.0.1/applicationMatch'`
 
 ### Use interactive api
-<p> in browser run <a href=http://127.0.0.1:8000/docs#> </a> inline link</p> 
+<p> in browser run `href=http://127.0.0.1:8000/docs#>` inline link</p> 
 or
-<p> in browser run <a href=http://127.0.0.1:8000/redoc> </a> inline link</p> 
+<p> in browser run `http://127.0.0.1:8000/redoc>` inline link</p> 
 
 ##### Request data example:
 ```
